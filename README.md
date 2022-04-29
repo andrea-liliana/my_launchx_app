@@ -2,8 +2,8 @@
 
 ### Contenido:
 
-- Cómo crear un nuevo proyecto de js.
-- Cómo agregar dependencias nuevas a un proyecto, dónde se guardan y cómo versionarlo correctamente.
-- Cómo exportar una clase y cómo importarla en otro archivo para usarla.
-- Cómo habilidar nuevos comandos con NPM en tu proyecto.
-- Cómo agregar una prueba de unidad básica con JEST.
+- Creación de un nuevo proyecto de js.
+- Agregar dependencias nuevas a un proyecto y su versionamiento correcto.
+- Exportación de una clase e importación de esta en otro archivo para usarla.
+- Habilitar comandos con NPM en un proyecto.
+- Agregar una prueba de unidad básica con JEST.
